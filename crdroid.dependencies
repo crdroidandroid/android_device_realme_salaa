@@ -1,0 +1,26 @@
+[
+    {
+        "repository": "crdroidandroid/android_device_mediatek_sepolicy_vndr",
+        "target_path": "device/mediatek/sepolicy_vndr"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_mediatek",
+        "target_path": "hardware/mediatek"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_oplus",
+        "target_path": "hardware/oplus"
+    },
+    {
+        "repository": "crdroidandroid/android_kernel_realme_salaa",
+        "target_path": "kernel/realme/salaa"
+    },
+    {
+        "repository": "crdroidandroid/proprietary_vendor_realme_salaa",
+        "target_path": "vendor/realme/salaa"
+    },
+    {
+        "repository": "crdroidandroid/vendor_bcr",
+        "target_path": "vendor/bcr"
+    }
+]
