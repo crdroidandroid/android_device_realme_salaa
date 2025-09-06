@@ -6,7 +6,6 @@ cam_vpu2.img
 cam_vpu3.img
 cdt_engineering.img
 gz.img
-lk.img
 logo.bin
 md1img.img
 preloader_ufs.img
@@ -14,3 +13,6 @@ scp.img
 spmfw.img
 sspm.img
 tee.img
+
+# Patched lk by @antagonizzzt
+lk.img|c3be41982f92bb7e7cc3397c4ff8959c1734c4ac
